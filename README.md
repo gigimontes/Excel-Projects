@@ -12,3 +12,4 @@ In this Project, I Looked into the a data set that Consists of PlayStations best
   6. What was the Average copies sold ?
 
 ## Dashboard: 
+![image](https://github.com/gigimontes/Excel-projects/assets/143570053/544fdf33-a26f-42b0-849a-fc7c15123593)

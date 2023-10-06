@@ -13,3 +13,10 @@ In this Project, I Looked into the a data set that Consists of PlayStations best
 
 #### Dashboard: 
 ![image](https://github.com/gigimontes/Excel-projects/assets/143570053/544fdf33-a26f-42b0-849a-fc7c15123593)
+
+  #### Analysis Findings:
+  1. The year that had the most Best Selling games released was 2017 with 7 games. The year that had the least games sold was 2013 and 2019 with 2 games.
+  2. The genre that had the most Best Selling games was Action Role Playing Games with 11 games out of 33 games.
+  3. Square Enix developed the most games with 4 games.
+  4. Sony Interactive Entertainment published the most games with 10 games with two of those games having - 
+  

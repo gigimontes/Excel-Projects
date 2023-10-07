@@ -12,7 +12,7 @@ In this Project, I Looked into the a data set that Consists of PlayStations best
   6. What was the Average copies sold ?
 
 #### Dashboard: 
-![image](https://github.com/gigimontes/Excel-projects/assets/143570053/544fdf33-a26f-42b0-849a-fc7c15123593)
+
 
   #### Analysis Findings:
   1. The year that had the most Best Selling games released was 2017 with 7 games. The year that had the least games sold was 2013 and 2019 with 2 games.

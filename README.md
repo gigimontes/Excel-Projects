@@ -37,7 +37,7 @@ In this project I looked into data about Bike sales that contain information suc
 
   #### Analysis Findings: 
   1. The age bracket with the highest bike purchases is middle aged people who are in the age range between 31-54. People in the middle aged bracket were also the highest in not purchasing a bike.
-  2. The average income for females bike purchasers is 53,440 while males is 60,124. For both female and male, they was a higher chance of a bike purchase if thier income was more then those who had lower income.
+  2. The average income for females bike purchasers is 53,440 while males is 60,124. For both female and male, their was a higher chance of a bike purchase if thier income was more then those who had lower income.
   3. Consumers were more likely to purchase a bike if the commute travel was between 0-2 miles. On the contray, consumers were more likely to not go thorugh with the purchase if the commute distance was between 5 miles or more.
 
 #### Note: You can filter the data based on marital Status, Region, and Education. 

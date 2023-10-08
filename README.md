@@ -9,7 +9,6 @@ In this Project I Looked into the a data that Consists of PlayStations best sell
   3. What Genre had the most Best Selling games? 
   4. Which Developer developed the most games?
   5. What publisher published the most games? 
-  6. What was the Average copies sold ?
 
 #### Dashboard: 
 

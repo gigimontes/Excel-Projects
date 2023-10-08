@@ -26,12 +26,12 @@ In this Project I Looked into the a data that Consists of PlayStations best sell
 
 In this project I looked into data about Bike sales that contain information such as Gender, Income, Commute Distance, wether or not the bike was purchased by the consumer, etc.
 
-### Data Analysis Questions: 
+#### Data Analysis Questions: 
 1. What age bracket bought the most bikes? Addtionally which Age bracket were more likely to not buy the bike?
 2. What is the average income of the consumer by gender?
 3. What commute distance are consumer more willing to purshase a bike? which commute distance are they not buying a bike? 
 
-### Dashboard: 
+#### Dashboard: 
 
 ![image](https://github.com/gigimontes/Excel-projects/assets/143570053/d4251f66-358b-4ead-80cf-61ef91659b84)
 

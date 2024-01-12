@@ -34,7 +34,17 @@ I obtained the data from Alex the Analyst github from his respiratory. To access
     - To download the Excel file click here.
 
 #### Data Cleaning/Data Preparation
+  - Cleaned Duplicates 
 
+#### Exploratory Data Analysis 
+The questions that were asked to help me with my analysis is: 
+- What age bracket bought the most bikes?
+- What is the average income of the consumer?
+- What commute distance are people more willing to purchase a bike?
+
+#### Data Analysis
+
+#### Results
 
 #### Questions: 
 1. What age bracket bought the most bikes?

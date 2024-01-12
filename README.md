@@ -23,7 +23,18 @@ In this project, I Looked into data about PlayStation's selling games between ye
 
 ## Project #2: Bike Sales Project
 
-In this project I looked into data about Bike sales. The data has information such as Gender of the consumer, the income of the consumer, the commute distance they travel, etc. Below are the questions I asked for my analysis.
+#### Project Overview
+I analyzed sales data about Bikes 
+
+#### Data Source
+I obtained the data from Alex the Analyst github from his respiratory. To access the data click here
+
+#### Tools used in Project
+**Excel**
+    - To download the Excel file click here.
+
+#### Data Cleaning/Data Preparation
+
 
 #### Questions: 
 1. What age bracket bought the most bikes?

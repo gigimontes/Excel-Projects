@@ -46,10 +46,7 @@ The questions that were asked to help me with my analysis is:
 
 #### Results
 
-#### Questions: 
-1. What age bracket bought the most bikes?
-2. What is the average income of the consumer? 
-3. What commute distance are people more willing to purchase a bike? 
+
 
 #### Dashboard: 
 

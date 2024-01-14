@@ -44,19 +44,23 @@ The questions that were asked to help me with my analysis is:
 
 #### Data Analysis
 
-#### Results
-
-
-
 #### Dashboard: 
 
 ![image](https://github.com/gigimontes/Excel-projects/assets/143570053/d4251f66-358b-4ead-80cf-61ef91659b84)
 
-  #### Analysis Findings: 
-   NOTE: For all visuals the blue results consists of information about those indivduals who did not purchase a bike while the orange results are those who did.
-   
-1. The age bracket with the highest bike purchases is middle aged people who are in the age range between 31-54. People in the middle aged bracket were also the highest in not purchasing a bike. 
-  2. The average income for females bike purchasers is 53,440 a year while for males it's 60,124 a year. Overall the higher the salary, the higher the chance of a purchase.  
-  3. Consumers were more likely to purchase a bike if the commute travel was between 0-2 miles. On the contray, consumers were more likely to not go through with the purchase if the commute travel was between 5 miles or more.
+ #### Results
+The results found in the data are:
+
+  - The age bracket with the highest bike purchases is middle aged people who are in the age range between 31-54. People in the middle aged bracket were also the highest in not purchasing a bike.
+  - The average income for female bike purchasers is 53,440 a year while for males it's 60,124 a year. Overall the higher the salary, the higher the chance of a purchase.
+  - Consumers were more likely to purchase a bike if the commute travel was between 0-2 miles. On the contrary, consumers were more likely to not go through with the purchase if the commute was between 5 miles or more. 
+
+#### Recommendations
+  - I would focus on marketing towards the age range for people in their Adolescence to middle ages. 
+  - I would recommend having a Uni-sex bike section that suits both men and women, men section, and women section that has 3 
+    pricing brackets each. The pricer the bike the more features it has. This way we expand our affordability to more 
+    consumers. 
+  - I would market towards people who live in cities or suburbs due to the space dedicated for bike routes. Destinations are 
+    more likely to be closer to each other compared to rural areas.
 
 #### Note: You can filter the data based on marital Status, Region, and Education. 

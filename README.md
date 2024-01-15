@@ -21,41 +21,41 @@ In this project, I Looked into data about PlayStation's selling games between ye
   4. Sony Interactive Entertainment published the most games with 10 games. Those games are Detriot: Become Human, Gran Turismo Sport, Ghost of Tshuima, Horizon Zero Dawn, The Last of Us Part II, Uncharted 4: A Thief's End, God of War, Marvel's Spider-Man, Nioh, and Nioh 2. Sony Interactive Entertianment was the publisher for Nioh and Nioh 2 world wide except in Japan. 
 
 
-## Project #2: Bike Sales Project
+# Project #2: Bike Sales Project
 
-#### Project Overview
+## Project Overview
 I analyzed sales data about Bikes 
 
-#### Data Source
+## Data Source
 I obtained the data from Alex the Analyst github from his respiratory. To access the data click here
 
-#### Tools used in Project
+## Tools used in Project
 **Excel**
     - To download the Excel file click here.
 
-#### Data Cleaning/Data Preparation
+## Data Cleaning/Data Preparation
   - Cleaned Duplicates 
 
-#### Exploratory Data Analysis 
+## Exploratory Data Analysis 
 The questions that were asked to help me with my analysis is: 
 - What age bracket bought the most bikes?
 - What is the average income of the consumer?
 - What commute distance are people more willing to purchase a bike?
 
-#### Data Analysis
+## Data Analysis
 
-#### Dashboard: 
+## **Dashboard**
 
 ![image](https://github.com/gigimontes/Excel-projects/assets/143570053/d4251f66-358b-4ead-80cf-61ef91659b84)
 
- #### Results
+## Results
 The results found in the data are:
 
   - The age bracket with the highest bike purchases is middle aged people who are in the age range between 31-54. People in the middle aged bracket were also the highest in not purchasing a bike.
   - The average income for female bike purchasers is 53,440 a year while for males it's 60,124 a year. Overall the higher the salary, the higher the chance of a purchase.
   - Consumers were more likely to purchase a bike if the commute travel was between 0-2 miles. On the contrary, consumers were more likely to not go through with the purchase if the commute was between 5 miles or more. 
 
-#### Recommendations
+## Recommendations
   - I would focus on marketing towards the age range for people in their Adolescence to middle ages. 
   - I would recommend having a Uni-sex bike section that suits both men and women, men section, and women section that has 3 
     pricing brackets each. The pricer the bike the more features it has. This way we expand our affordability to more 
@@ -63,4 +63,4 @@ The results found in the data are:
   - I would market towards people who live in cities or suburbs due to the space dedicated for bike routes. Destinations are 
     more likely to be closer to each other compared to rural areas.
 
-#### Note: You can filter the data based on marital Status, Region, and Education. 
+## Note: You can filter the data based on marital Status, Region, and Education. 

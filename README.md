@@ -7,8 +7,7 @@ I analyzed sales data about Bikes
 I retrieved the data from AlexTheAnalyst Github's "Excel_tutorial" respitory. To go to the respitory click [here](https://github.com/AlexTheAnalyst/Excel-Tutorial/tree/main)
 
 ## Tools used in Project
-**Excel**
-    
+**Excel** 
     - To download the Excel file click [here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
 ## Data Cleaning/Data Preparation

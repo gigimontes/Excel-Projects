@@ -8,7 +8,7 @@ I obtained the data from Alex the Analyst github from his respiratory. To access
 
 ## Tools used in Project
 **Excel**
-    - To download the Excel file click [here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx).
+    - To download the Excel file click [here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
 ## Data Cleaning/Data Preparation
   - Cleaned Duplicates 

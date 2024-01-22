@@ -11,7 +11,12 @@ I retrieved the data from AlexTheAnalyst Github's "Excel_tutorial" respitory. To
     - To download the Excel file click [here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
 ## Data Cleaning/Data Preparation
-  - Cleaned Duplicates 
+  - Removed Duplicates 
+  - Find and Replace
+        - I changed the M and F from the Gender column to 'Male' and 'Female' along with changing the M and F from the Marital Status Status to ' Married' and 'Single' so it is easier to interpret.
+  - Nested IF
+  - The data shows the Age range under the Age column as a single option (ex. 23, 24, 25), and want to show it as a range so it can be easier to read when building the data visualization. Therefore I used a Nested IF to put the ages in ranges.
+Formula Used: =IF(L15>54,"Old",IF(L15>=31,"Middle Age",IF(L15<31,"Adolescent","Invaild")))
 
 ## Exploratory Data Analysis 
 The questions that were asked to help me with my analysis is: 
@@ -20,6 +25,8 @@ The questions that were asked to help me with my analysis is:
 - What commute distance are people more willing to purchase a bike?
 
 ## Data Analysis
+
+I analyzed the data through several Pivot tables
 
 ## **Dashboard**
 

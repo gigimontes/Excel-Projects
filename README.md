@@ -4,7 +4,7 @@
 I analyzed sales data about Bikes 
 
 ## Data Source
-I retrieved the data from AlexTheAnalyst Github's "Excel_tutorial" respitory. To go to the respitory click here [Excel tutorial respitory](https://github.com/AlexTheAnalyst/Excel-Tutorial/tree/main)
+I retrieved the data from AlexTheAnalyst Github's "Excel_tutorial" respitory. To go to the respitory click here: [Excel Tutorial Respitory](https://github.com/AlexTheAnalyst/Excel-Tutorial/tree/main)
 
 ## Tools used in Project
 **Excel** 
